@@ -5,7 +5,7 @@
 ```
 Set the key and token on https://developer.twitter.com/
 pip install tweepy
-python main.py ["search_query"] [optional:"username"]
+python main.py ["search_query"] [optional:"@username"]
 ```
 
 [![paypal](https://i.imgur.com/URcFCl1.png)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=Y4DJVGBKXB8MJ&source=url)
