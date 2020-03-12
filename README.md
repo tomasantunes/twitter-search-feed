@@ -3,6 +3,7 @@
 ### How to run
 
 ```
+Set the key and token on https://developer.twitter.com/
 pip install tweepy
 python main.py
 ```
